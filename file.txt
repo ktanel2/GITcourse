@@ -1,4 +1,6 @@
 Change in file.
 
+Make some changes to it.
 
+Tanel on tore!
 ~
